@@ -1,10 +1,21 @@
-# boostada 
+# Gobolada Soomaaliya
 <p align="center">
-<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/states.jpeg" height="500"/>
+	<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/states.jpeg" height="500"/>
 </p>
 
+<ol>
+	<li>Somaliland</li>
+	<li>Puntland</li>
+	<li>Galmudug</li>
+	<li>Hirshabelle</li>
+	<li>Banadir Regional Administration (Mogadishu Municipality)</li>
+	<li>South West State</li>
+	<li>Jubaland</li>
+</ol>
+
+# Regionada Soomaaliya
 <p align="center">
-<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/regions.webp" height="500"/>
+	<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/regions.webp" height="500"/>
 </p>
 
 
