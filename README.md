@@ -1,6 +1,6 @@
 # Gobolada Soomaaliya
 <p align="center">
-	<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/states.jpeg" width="100%" height="500"/>
+	<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/states.jpeg" width="100%" height="600"/>
 </p>
 
 <ol>
@@ -22,44 +22,44 @@
 # Zipcodes
 
 <ul>
-	<li>Somaliland (SL)</li>
+	<li>Somaliland</li>
 	<ul>
-		<li>Awdal</li>
-		<li>Waqooyi Galbeed</li>
-		<li>Togdheer</li>
-		<li>Sanaag </li>
-		<li>Sool </li>
+		<li>Awdal (01)</li>
+		<li>Waqooyi Galbeed (02)</li>
+		<li>Togdheer (03)</li>
+		<li>Sanaag (04)</li>
+		<li>Sool (05)</li>
 	</ul>
-	<li>Puntland (PL)</li>
+	<li>Puntland</li>
 	<ul>
-		<li>Bari</li>
-		<li>Nugaal</li>
+		<li>Bari (01)</li>
+		<li>Nugaal (02)</li>
 	</ul>
-	<li>Galmudug (GM)</li>
+	<li>Galmudug</li>
 	<ul>
-		<li>Mudug</li>
-		<li>Galguduud</li>
+		<li>Mudug (01)</li>
+		<li>Galguduud (02)</li>
 	</ul>
-	<li>Hirshabelle (HS)</li>
+	<li>Hirshabelle</li>
 	<ul>
-		<li>Hiraan</li>
-		<li>Shabeellaha Dhexe</li>
+		<li>Hiraan (01)</li>
+		<li>Shabeellaha Dhexe (02)</li>
 	</ul>
-	<li>Banadir Regional Administration (MG)</li>
+	<li>Banadir Regional Administration</li>
 	<ul>
-		<li>Banaadir</li>
+		<li>Banaadir (01)</li>
 	</ul>
-	<li>South West State (SW)</li>
+	<li>South West State</li>
 	<ul>
-		<li>Bakol</li>
-		<li>Bay</li>
-		<li>Shabeellaha Hoose</li>
+		<li>Bakol (01)</li>
+		<li>Bay (02)</li>
+		<li>Shabeellaha Hoose (03)</li>
 	</ul>
-	<li>Jubaland (JL)</li>
+	<li>Jubaland</li>
 	<ul>
-		<li>Gedo</li>
-		<li>Jubbada Dhexe</li>
-		<li>Jubbada Hoose</li>
+		<li>Gedo (01)</li>
+		<li>Jubbada Dhexe (02)</li>
+		<li>Jubbada Hoose (03)</li>
 	</ul>
 </ul>
  
