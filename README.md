@@ -72,4 +72,19 @@
 		<li>Jubbada Hoose (03)</li>
 	</ul>
 </ul>
- 
+
+# Other inputs:
+
+What if we add a phone number to zip code generation?
+
+This would allow us use existed customer number or automatically generate a unique phone number for each zip code, which would be very useful for businesses that need to contact customers in a specific area. Additionally, it would make it easier for people to remember their zip code since they would only need to remember their phone number. In terms of tracking package shipments, this would also be very helpful since it would allow us to more easily track where packages are going and how they are delivered e.g. getting a text message to track their package.
+
+Example: 
+Puntland phone number starts with **90x-xxxxxx**, Jubbaland start with **61x-xxxxxx**
+
+The zip code will be something like, **PL-01-907-123456**
+
+Once the sender ships the package, the system will send text message to the phone number by pre-fixing **252** with tracking info.
+
+
+
