@@ -3,6 +3,11 @@
 	<img src="https://github.com/abdulnsheikh/boostada/blob/main/images/example.jpg" width="100%" height="600"/>
 </p>
 
+# Tusaale Dhamaystiran
+<p align="center">
+	<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/full_example.png" width="100%" height="600"/>
+</p>
+
 # Gobolada Soomaaliya
 <p align="center">
 	<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/states.jpeg" width="100%" height="600"/>
