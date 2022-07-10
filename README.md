@@ -1,6 +1,10 @@
 # boostada 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/map.webp" height="500"/>
+<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/states.jpeg" height="500"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abdulnsheikh/boostada/main/images/regions.webp" height="500"/>
 </p>
 
 
