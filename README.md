@@ -4,13 +4,13 @@
 </p>
 
 <ol>
-	<li>Somaliland</li>
-	<li>Puntland</li>
-	<li>Galmudug</li>
-	<li>Hirshabelle</li>
-	<li>Banadir Regional Administration (Mogadishu Municipality)</li>
-	<li>South West State</li>
-	<li>Jubaland</li>
+	<li>Somaliland (SL)</li>
+	<li>Puntland (PL)</li>
+	<li>Galmudug (GM)</li>
+	<li>Hirshabelle (HS) </li>
+	<li>Banadir Regional Administration (MG)</li>
+	<li>South West State (SW)</li>
+	<li>Jubaland (JL)</li>
 </ol>
 
 # Regionada Soomaaliya
@@ -22,7 +22,7 @@
 # Zipcodes
 
 <ul>
-	<li>Somaliland</li>
+	<li>Somaliland (SL)</li>
 	<ul>
 		<li>Awdal</li>
 		<li>Waqooyi Galbeed</li>
@@ -30,32 +30,32 @@
 		<li>Sanaag </li>
 		<li>Sool </li>
 	</ul>
-	<li>Puntland</li>
+	<li>Puntland (PL)</li>
 	<ul>
 		<li>Bari</li>
 		<li>Nugaal</li>
 	</ul>
-	<li>Galmudug</li>
+	<li>Galmudug (GM)</li>
 	<ul>
 		<li>Mudug</li>
 		<li>Galguduud</li>
 	</ul>
-	<li>Hirshabelle</li>
+	<li>Hirshabelle (HS)</li>
 	<ul>
 		<li>Hiraan</li>
 		<li>Shabeellaha Dhexe</li>
 	</ul>
-	<li>Banadir Regional Administration (Mogadishu Municipality)</li>
+	<li>Banadir Regional Administration (MG)</li>
 	<ul>
 		<li>Banaadir</li>
 	</ul>
-	<li>South West State</li>
+	<li>South West State (SW)</li>
 	<ul>
 		<li>Bakol</li>
 		<li>Bay</li>
 		<li>Shabeellaha Hoose</li>
 	</ul>
-	<li>Jubaland</li>
+	<li>Jubaland (JL)</li>
 	<ul>
 		<li>Gedo</li>
 		<li>Jubbada Dhexe</li>
